@@ -4,7 +4,7 @@
 <br/>
 I'm an ML researcher at CMU interested in representation learning theory and deep learning systems.
 
-Right now, my research focuses on analyzing representations learned by deep learning models using dynamical systems.
+Right now, my research focuses on analyzing representations learned by deep learning models using dynamical systems.\
 I'm also working on contributing to ThunderKittens (https://github.com/HazyResearch/ThunderKittens)!
 
 Outside research, I'm an ML systems engineer working on LLM inference optimization.
