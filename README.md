@@ -4,6 +4,6 @@
 <br/>
 I'm an ML researcher at CMU interested in neural representation learning and deep learning compilers.
 
-Right now, my research focuses on analyzing representations learned by deep learning models through the lens of dynamical systems. I'm also working on contributing to XLA (https://github.com/openxla/xla)!
+Right now, my research focuses on analyzing representations learned by deep learning models through the lens of dynamical systems. I'm also working on contributing to ThunderKittens (https://github.com/HazyResearch/ThunderKittens)!
 
 Outside research, I'm an ML systems engineer working on LLM inference optimization.
